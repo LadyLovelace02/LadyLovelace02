@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melissa (@LadyLovelace02)
-- 👀 I’m interested in back end software development and internet security / pen testing
+- 👀 I’m interested in low level software development and cybersecurity / pen testing
 - 🌱 I’m currently in third year computer science at Carleton
 - 💞️ I’m looking to collaborate on everything! I'm looking for experience so reach out if you wanna collab on something!
 - 📫 How to reach me: melissa@rand-family.com
